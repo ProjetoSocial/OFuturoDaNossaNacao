@@ -1,2 +1,1 @@
-# OFuturoDaNossaNacao
-https://projetosocial.github.io/OFuturoDaNossaNacao/
+# OFuturoDaNossaNacao - https://projetosocial.github.io/OFuturoDaNossaNacao/
