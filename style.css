@@ -3,9 +3,13 @@ background-color: black;
 }
 
 h1{
-color: MediumSeaGreen;
+color: #3DC2FF;
 }
 
 p{
-color: rgb(51, 173, 255);
+color: #3dc2ff;
+}
+
+a{
+color: #3DC2FF
 }
