@@ -4,7 +4,7 @@ background-color: #66d9ff;
 
 t1{
 color: #000000;
-font-size: 40px;
+font-size: 70px;
 }
 
 h1{
@@ -18,4 +18,8 @@ font-size: 30px;
 
 a{
 color: #000000;
+}
+
+blockquote{
+font-size: 30px
 }
