@@ -1,23 +1,28 @@
 body{
 background-color: #66d9ff;
+text-align:center
 }
 
 t1{
 color: #000000;
 font-size: 70px;
+text-align:center
 }
 
 h1{
 color: #000000;
+text-align:center
 }
 
 p{
 color: #000000;
 font-size: 30px; 
+text-align:center
 }
 
 a{
 color: #000000;
+text-align:center
 }
 
 pre{
