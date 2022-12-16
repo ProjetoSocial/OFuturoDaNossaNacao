@@ -2,12 +2,18 @@ body{
 background-color: #66d9ff;
 }
 
+t1{
+color: #3DC2FF;
+font-size: 40px;
+}
+
 h1{
 color: #3DC2FF;
 }
 
 p{
 color: #3dc2ff;
+font-size: 30px; 
 }
 
 a{
