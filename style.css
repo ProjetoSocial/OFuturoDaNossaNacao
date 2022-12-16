@@ -1,29 +1,36 @@
 body{
 background-color: #66d9ff;
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
 }
 
 t1{
 color: #000000;
 font-size: 70px;
-text-align:center
+text-align:center;
+font-family: 'Roboto Condensed', sans-serif;
 }
 
 h1{
 color: #000000;
-text-align:center
+text-align:center;
+font-family: 'Roboto Condensed', sans-serif;
 }
 
 p{
 color: #000000;
 font-size: 20px; 
-text-align:center
+text-align:center;
+font-family: 'Roboto Condensed', sans-serif;
 }
 
 a{
 color: #000000;
-text-align:center
+text-align:center;
+font-family: 'Roboto Condensed', sans-serif;
 }
 
 pre{
-font-size: 50px
+font-size: 50px;
+font-family: 'Roboto Condensed', sans-serif;
 }
