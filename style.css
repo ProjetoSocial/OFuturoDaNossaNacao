@@ -1,5 +1,5 @@
 body{
-background-color: #e6e6e6;
+background-color: #f2f2f2;
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
 }
@@ -36,4 +36,6 @@ font-family: 'Roboto Condensed', sans-serif;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  height:auto;
+  width:75%;
 }
