@@ -39,20 +39,3 @@ font-family: 'Roboto Condensed', sans-serif;
   height:auto;
   width:75%;
 }
-
-var modal = imagem_2022-12-17_154307710.png('myModal');
-
-var img = imagem_2022-12-17_154307710.png('myImg');
-var modalImg = imagem_2022-12-17_154307710.png("img01");
-var captionText = imagem_2022-12-17_154307710.png("caption");
-img.onclick = function(){
-  modal.style.display = "block";
-  modalImg.src = this.src;
-  captionText.innerHTML = this.alt;
-}
-
-var span = document.getElementsByClassName("close")[0];
-
-span.onclick = function() {
-  modal.style.display = "none";
-}
