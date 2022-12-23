@@ -33,7 +33,7 @@ text-align: center;
 a{
 color: #000000;
 font-family: 'Roboto Condensed', sans-serif;
-text-align: center
+text-align: center;
 }
 
 pre{
@@ -45,6 +45,6 @@ font-family: 'Roboto Condensed', sans-serif;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height:auto;
-  width:75%;
+  height: auto;
+  width: 75%;
 }
