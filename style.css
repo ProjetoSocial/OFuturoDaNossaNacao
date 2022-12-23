@@ -32,3 +32,10 @@ pre{
 font-size: 50px;
 font-family: 'Roboto Condensed', sans-serif;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
