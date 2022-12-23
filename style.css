@@ -1,5 +1,5 @@
 body{
-background-color: white;
+background-color: #f2f2f2;
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
 }
@@ -13,20 +13,18 @@ font-family: 'Roboto Condensed', sans-serif;
 
 h1{
 color: #000066;
-text-align:center;
+text-align: center;
 font-family: 'Roboto Condensed', sans-serif;
 }
 
 p{
 color: #000000;
 font-size: 20px; 
-text-align:center;
 font-family: 'Roboto Condensed', sans-serif;
 }
 
 a{
 color: #000000;
-text-align:center;
 font-family: 'Roboto Condensed', sans-serif;
 }
 
